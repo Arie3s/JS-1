@@ -1,5 +1,6 @@
 # JS-1
- 1. Write a JavaScript program that accepts two numbers in two prompts and
+"
+1. Write a JavaScript program that accepts two numbers in two prompts and
 displays the larger one in the console.
 2. Write a JavaScript conditional statement to find the sign of a number. Display
 an alert box with the specified sign.
@@ -39,3 +40,4 @@ for loop.
 * * *
 * * * *
 * * * * *
+"
