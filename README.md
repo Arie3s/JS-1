@@ -35,9 +35,4 @@ print "Buzz". For numbers which are multiples of both three and five print
 "FizzBuzz".
 7. Write a JavaScript program to construct the following pattern, using a nested
 for loop.
-"*
- * * *
- * * * *
- * * * * *" 
-
 "
